@@ -1,7 +1,7 @@
 from tkinter import *
 import re
 
-class HoverInfo(Menu):
+class HoverText(Menu):
     def __init__(self, parent, text, command=None):
        self._com = command
        Menu.__init__(self,parent, tearoff=0)
