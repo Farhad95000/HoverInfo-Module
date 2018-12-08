@@ -1,0 +1,1 @@
+Copy the "HoverInfo.py" file and paste at "C:\Program Files\Python37\Lib"
