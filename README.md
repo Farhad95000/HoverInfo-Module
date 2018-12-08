@@ -4,13 +4,13 @@ This is an module which modifies a GUI object like this when mouse pointer kept 
 
 Description
 ============
-Version: 1.0,
-Developer: Forhad Hossain 
+* Version  : 1.0
+* Developer: Forhad Hossain 
 
 Requirements
 =============
-Python Version: Python 3.0 or higher ,
-OS: Any 32/64 bit OS
+* Python Version: Python 3.0 or higher 
+* OS            : Any 32/64 bit OS
 
 How to Install
 ===============
