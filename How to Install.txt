@@ -1,1 +1,6 @@
-Copy the "HoverInfo.py" file and paste at "C:\Program Files\Python37\Lib"
+1. Extract this ZIP file.
+2. Copy the "HoverInfo.py" file and paste at "C:\Program Files\Python37\Lib".
+
+Done. 
+
+Thanks :)
