@@ -6,7 +6,7 @@ Version: 1.0,
 Developer: Forhad Hossain 
 
 # Requirements
-Python Version: Supported on all Python versions
+Python Version: Supported on all Python versions,
 OS: Any 32/64 bit OS
 
 # How to install 
