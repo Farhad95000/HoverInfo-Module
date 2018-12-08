@@ -1,5 +1,5 @@
 # HoverInfo-Module
-This is an module which modifies a GUI object. Like this when mouse pointer kept on it, hover message will be created.
+This is an module which modifies a GUI object like this when mouse pointer kept on it, hover message will be created.
 
 # Description
 Version: 1.0,
