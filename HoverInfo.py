@@ -1,5 +1,5 @@
 __version__ = 1.0
-rom tkinter import *
+from tkinter import *
 import re
 
 class HoverText(Menu):
