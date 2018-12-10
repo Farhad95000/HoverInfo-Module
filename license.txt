@@ -7,5 +7,5 @@ to modify or sell it.
 
 Copyright
 ==========
-Copyright(C) 2018
+Copyright(C) 2018 Forhad Hossain
 All rights reserved.
