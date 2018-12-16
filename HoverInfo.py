@@ -3,6 +3,7 @@ from tkinter import *
 import re
 
 class HoverText(Menu):
+    "Creates hover popup"
     def __init__(self, parent, text, command=None):
        self._com = command
        Menu.__init__(self,parent, tearoff=0)
