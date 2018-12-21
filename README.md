@@ -1,24 +1,25 @@
-Description
-============
+HoverInfo-Module
+=================
 This is an module which modifies a GUI object like this when mouse pointer kept on it, hover message will be created.
 
-* Version  : 1.0
-* Developer: Forhad Hossain 
-
 Requirements
-=============
-* Python Version: Python 3.0 or higher 
-* OS            : Any 32/64 bit OS
+-------------
+These requirements are minimumn:
 
-How to Install
-===============
-1. Extract this ZIP file.
-2. Copy the "HoverInfo.py" file and paste at "C:\Program Files\Python37\Lib".
+* OS     : Winwdos 7 32/64 bit or higher
+* Python : Python 2.7+ or Python 3.5+
 
-Developer
-==========
-Made by Forhad Hossain at United Kingdom.
+Installation
+-------------
+- Download this repository.
+- Extract the zip file.
+- Run Command Promt and type "cd 'path of extracted repository folder'" and press Enter.
+- Type "python setup.py install" and press Enter. The Module will be installed automatically.
 
-More Information
-=================
-See "example.py" file for tutorial.
+Support
+--------
+E-mail to farhadhossain95000@gmail.com for support.
+
+License
+--------
+This module is under MIT license. Read `LICENSE.txt` file for more description.
