@@ -2,6 +2,7 @@ from tkinter import *
 import re
 
 class HoverText(Menu):
+    """Creates hover popuo\n From: https://github.com/Forhad95000/HoverInfo-Module/""" 
     def __init__(self, parent, text, command=None):
        self._com = command
        Menu.__init__(self,parent, tearoff=0)
