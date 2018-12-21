@@ -9,12 +9,14 @@ These requirements are minimumn:
 * OS     : Winwdos 7 32/64 bit or higher
 * Python : Python 2.7+ or Python 3.5+
 
-Installation
--------------
+Installation and Guide
+-----------------------
 - Download this repository.
 - Extract the zip file.
 - Run Command Promt and type "cd 'path of extracted repository folder'" and press Enter.
 - Type "python setup.py install" and press Enter. The Module will be installed automatically.
+
+See the `example.py` file for guideline
 
 Support
 --------
