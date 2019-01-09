@@ -1,13 +1,13 @@
-License Description
+LICENSE DESCRIPTION
 ====================
-'HoverInfo' is a module for Python created by Forhad Hossain. Python programming language is under open
-source license. According to that user is allowed to share with others but not allowed to modify or sell 
-it. GitHub license is the same. User is allowed to share HoverInfo module with others. Not allowed to
-modify or sell it.
+'HOVERINFO' IS A MODULE FOR PYTHON CREATED BY FORHAD HOSSAIN. PYTHON PROGRAMMING LANGUAGE IS UNDER OPEN
+SOURCE LICENSE. ACCORDING TO THAT USER IS ALLOWED TO SHARE WITH OTHERS BUT NOT ALLOWED TO MODIFY OR SELL 
+IT. GITHUB LICENSE IS THE SAME. USER IS ALLOWED TO SHARE HOVERINFO MODULE WITH OTHERS. NOT ALLOWED TO
+MODIFY OR SELL IT.
    
-Any person, blog, website can brodcast about this module. If they the name
-of writer of this module there's a request to display the real writer's name. Not allowed to make fake 
-writer. Repositories found in GitHub are open source. But user is not allowed to make own repository
-with it.
+ANY PERSON, BLOG, WEBSITE CAN BRODCAST ABOUT THIS MODULE. IF THEY THE NAME
+OF WRITER OF THIS MODULE THERE'S A REQUEST TO DISPLAY THE REAL WRITER'S NAME. NOT ALLOWED TO MAKE FAKE 
+WRITER. REPOSITORIES FOUND IN GITHUB ARE OPEN SOURCE. BUT USER IS NOT ALLOWED TO MAKE OWN REPOSITORY
+WITH IT.
 
-Thanks for reading.
+THANKS FOR READING.
